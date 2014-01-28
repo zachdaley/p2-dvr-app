@@ -1,0 +1,13 @@
+
+/*Tabs Label*/
+.tabs dd {
+
+	width: 96px;
+}
+
+.tabs dd.active a {
+
+	background: #f0f;
+}
+
+/*End of Tabs Label*/
